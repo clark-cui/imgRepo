@@ -26,13 +26,13 @@
 
 ##### 改造的原因
 >github图床不再可用
-
+>
 >typora更新，支持一键picgo
 
 
  一觉醒来，打开typora,看到更新，瞅瞅更新日志，
 
-> Support upload images via PicGo or custom commands.
+`Support upload images via PicGo or custom commands.`
 
 厉害了，这样的话就可以直接在typora中贴图，自动上传到图床，激动地我立马试了下。
 
