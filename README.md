@@ -1,20 +1,20 @@
 # ImgRepo
 
-个人github图床
+### 个人github图床
 
-------
+
 
 > 注意 ：此项目已经废弃，本人目前使用alioss作为图床。由于github被墙的原因，现在国内访问github很慢，picgo连接github会失败，下附教程。
 
-#### picgo+github实现图床
 
-> 图床的作用：把图片上传到服务器，获取图片url。
+##### 图床的作用：
+> 把图片上传到服务器，获取图片url。
 >
 > 写项目的时候，把静态资源放到图床，可以减小本地打包的体积。项目部署的时候，也能减少服务器去响应下载静态资源的占用，减轻服务器压力（毕竟没钱，租的最便宜的菜鸡服务器）。
 
 
 
-###### 教程
+##### 教程
 
 网上有一大堆，我就不写了，百度一下 picgo+github图床，我放一个链接在这里。
 
@@ -22,17 +22,18 @@
 
 
 
-#### 图床改造（alioss+picgo）
+### 图床改造（alioss+picgo）
 
-##### typora更新，支持一键picgo
+##### 改造的原因
+>github图床不再可用
+>typora更新，支持一键picgo
+
 
  一觉醒来，打开typora,看到更新，瞅瞅更新日志，
 
 > Support upload images via PicGo or custom commands.
 
 厉害了，这样的话就可以直接在typora中贴图，自动上传到图床，激动地我立马试了下。
-
-##### github图床不再可用
 
 picgo直接报错`服务器失败`
 
