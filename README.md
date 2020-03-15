@@ -62,5 +62,5 @@ em...果然是github的原因，受限于国内网络的原因，还是开个ali
 
 使用snipaste可以快速贴图上传，本地图片可以拖进去上传，大大提高了写文档的效率。
 
-![](https://gif-clark-cui.oss-cn-beijing.aliyuncs.com/blog/%E4%B8%8A%E4%BC%A02020-3-15.gif)
+![](https://gif-clark-cui.oss-cn-beijing.aliyuncs.com/blog/%E6%BC%94%E7%A4%BA2020-3-15.gif)
 
